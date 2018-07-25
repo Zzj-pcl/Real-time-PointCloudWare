@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/PCW">
+        <file>Resources/main/open-alt.png</file>
+        <file>Resources/main/save.png</file>
+        <file>Resources/main/save-as.png</file>
+        <file>Resources/main/statusbar.png</file>
+        <file>Resources/main/many-open-folder.png</file>
+        <file>Resources/main/open-folder.png</file>
+        <file>Resources/main/soft.png</file>
+        <file>Resources/main/openmesh.png</file>
+    </qresource>
+</RCC>
